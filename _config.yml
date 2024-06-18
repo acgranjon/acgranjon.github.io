@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal_mistakes_skin"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Anne-Céline Granjon"
   avatar           : "Dokumente/Foto Granjon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Conservation geneticist"
+  bio              : "Conservation geneticist" # "I am an **amazing** person"
   location         : "Leipzig"
   email            :
   links:
