@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Anne-Céline Granjon"
-  avatar           : "Dokumente/Foto Granjon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Foto-Granjon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Conservation geneticist" # "I am an **amazing** person"
   location         : "Leipzig"
   email            :
