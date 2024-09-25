@@ -1,0 +1,30 @@
+---
+title: "My CV"
+title-block-banner: "assets/images/landscape_cundinamarca.jpg"
+toc: false
+---
+
+```{=html}
+<style>
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: 3px;
+  height: 280px;
+}
+
+.quarto-title-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -30px;
+  height: 150%;
+}
+</style>
+```
+# **2024**
+
+# 2023
+
+# 2022
+
+# 2021

@@ -2,12 +2,9 @@ project:
   type: website
   output-dir: docs # docs is the folder name Github Pages uses
 
-resources:
-  - CNAME # The CNAME file is needed if you use your own domain name.
-
 website:
-  title: "My personal professional website"
-  description: "This is a professional personal page, I speak of R programming, scientific development, web development, reproducibility and photography."
+  title: "Anne-Céline Granjon, PhD"
+  description: "This is a professional personal page"
   navbar:
     background: primary # Primary, secondary and tertiary are colour name shortcuts
     search: true
@@ -15,14 +12,16 @@ website:
       - href: index.qmd
         text: Home
       - href: cv.qmd
-      - href: blog.qmd # If `text` is not provided, the `title` of the page will be shown
+        text: My CV
+      - href: publications.qmd # If `text` is not provided, the `title` of the page will be shown
+        text: Publications
     tools:
       - icon: github
         menu:
           - text: Website Code
-            href: https://github.com/AlbanSagouis/albansagouis.github.io
+            href: https://github.com/acgranjon/acgranjon.github.io/
           - text: My repositories
-            href: https://github.com/AlbanSagouis/
+            href: https://github.com/acgranjon/
 
 format:
   html:

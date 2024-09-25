@@ -1,0 +1,13 @@
+---
+title: "Publications"
+title-block-banner: "assets/images/landscape_cundinamarca.jpg"
+toc: false
+---
+
+# 2024
+
+# 2023
+
+# 2022
+
+# 2021
