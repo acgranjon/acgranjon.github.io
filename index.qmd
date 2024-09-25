@@ -3,7 +3,7 @@ title: "About me"
 title-block-banner: "assets/images/landscape_cundinamarca.jpg"
 output-file: "index.html"
 lang: "en-gb"
-image: "assets/images/portrait_with_scarf.jpeg"
+image: "assets/images/Foto-Granjon.jpg"
 toc: false
 about:
   id: personal-section
@@ -11,25 +11,22 @@ about:
   links:
   - icon: envelope
     text: Email
-    href: mailto:sagouis@pm.me
+    href: mailto:anne-celine.granjon@idiv.de
   - icon: github
     text: Github
-    href: https://github.com/albansagouis
-  - icon: box-seam
-    text: Zenodo
-    href: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Sagouis%2C%20Alban%22&l=list&p=1&s=10&sort=bestmatch
+    href: https://github.com/acgranjon
   - icon: boxes
-    text: "ORCID 0000-0002-3827-1063"
+    text: "ORCID 0000-0003-1426-523X"
     href: https://orcid.org/0000-0002-3827-1063
   - icon: bank
     text: ResearchGate
-    href: https://www.researchgate.net/profile/Alban-Sagouis
+    href: https://www.researchgate.net/profile/Anne-Celine-Granjon
   - icon: building
     text: iDiv
-    href: https://www.idiv.de/en/profile/1244.html
+    href: https://www.idiv.de/en/profile/2011.html
   - icon: linkedin
     text: Linkedin
-    href: https://www.linkedin.com/in/alban-sagouis-567886283/
+    href: https://www.linkedin.com/in/anne-c%C3%A9line-granjon-798623a1/
       
 ---
 
@@ -53,9 +50,7 @@ about:
 [//]: # (https://quarto.org/docs/websites/website-about.html#partial-page-content)
 :::{#personal-section}
 
-My name is Alban Sagouis and this is my personal professional website.
-
-There is a [dynamic CV](cv.qmd) that aggregates my blog posts described as professional *experiences* and also blog posts about photography and other topics.
+This page is under construction
 
 ### Current job
 
