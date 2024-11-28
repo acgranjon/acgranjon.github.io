@@ -27,6 +27,9 @@ about:
   - icon: linkedin
     text: Linkedin
     href: https://www.linkedin.com/in/anne-c%C3%A9line-granjon-798623a1/
+  - icon: mortarboard
+    text: Scholar
+    href: https://scholar.google.com/citations?user=5-DCUnwAAAAJ
 ---
 
 ```{=html}
@@ -53,9 +56,9 @@ This page is under construction
 
 I am a Postdoc at iDiv, the German Center for Integrative Biodiversity Research (Halle-Jena-Leipzig) in the [sDiv Synthesis Center](https://www.idiv.de/en/sdiv.html).
 
-I am generally interested in
+I am generally interested in population biology, which I have studies from the context of Ecology, Genetic and Conservation.
 
-My project here focuses on
+My current project at sDiv makes use of publicly available microsatellite genotypes of vertebrates to investigate worldwide patterns in genetic diversity, across Latitudes and life-history strategies
 :::
 
 ### Building this website
