@@ -1,6 +1,6 @@
 ---
 title: "About me"
-title-block-banner: "docs/assets/images/Lake-Bunyoni-Uganda.jpg"
+title-block-banner: "/assets/images/Lake-Bunyoni-Uganda.jpg"
 output-file: "index.html"
 lang: "en-gb"
 image: "assets/images/Foto-Granjon.jpg"

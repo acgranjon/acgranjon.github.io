@@ -1,6 +1,6 @@
 ---
 title: "My CV"
-title-block-banner: "assets/images/Lake-Bunyoni-Uganda.jpg"
+title-block-banner: "/assets/images/Lake-Bunyoni-Uganda.jpg"
 toc: false
 ---
 
@@ -9,11 +9,11 @@ toc: false
 
 ## **Feb. 2024-Feb. 2026**
 
--   Post-Doctoral Position, sDiv Synthesis Center, iDiv Center for intergrative Biodiversity Research (Halle-Jena-Leipzig). "Unraveling the relationship between genetic diversity, the latitudinal gradient in biodiversity, and life-history strategies". Supervision: Chloé Schmidt, Michael Gerth, Jonathan Chase.
+-   Individual Post-Doctoral Position, sDiv Synthesis Center, German Center for intergrative Biodiversity Research (iDiv) Halle-Jena-Leipzig. Project title: "Unraveling the relationship between genetic diversity, the latitudinal gradient in biodiversity, and life-history strategies". Supervision: Chloé Schmidt, Michael Gerth, Jonathan Chase.
 
 ## 2020-2024
 
--   Career Break
+-   Career Break & Maternity
 
 ## **2015-2020**
 
@@ -47,8 +47,8 @@ toc: false
 
 -   sDiv PostDoc Call: 72000€
 
-# Consultance and Free-lance
+# Society Memberships:
 
-## 2023
 
--   Consultant for the BonDiv project, led by Prof. Hjalmar Kühl, Dr. Erin Wessling and Dr. Martin Surbeck. iDiv Leipzig.
+
+

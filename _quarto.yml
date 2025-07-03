@@ -1,10 +1,10 @@
 project:
   type: website
-  output-dir: docs # docs is the folder name Github Pages uses
+  output-dir: docs # docs is the folder name Github Pages uses - don't add anything in there
 
 website:
   title: "Anne-Céline Granjon, PhD"
-  description: "This is a professional personal page"
+  description: "This is my professional page"
   navbar:
     background: primary # Primary, secondary and tertiary are colour name shortcuts
     search: true
