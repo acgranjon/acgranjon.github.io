@@ -1,6 +1,6 @@
 ---
 title: "About me"
-title-block-banner: "docs/assets/images/landscape_cundinamarca.jpg"
+title-block-banner: "docs/assets/images/Lake-Bunyoni-Uganda.jpg"
 output-file: "index.html"
 lang: "en-gb"
 image: "assets/images/Foto-Granjon.jpg"
@@ -32,33 +32,20 @@ about:
     href: https://scholar.google.com/citations?user=5-DCUnwAAAAJ
 ---
 
-```{=html}
-<style>
-#title-block-header {
-  margin-block-end: 1rem;
-  position: relative;
-  margin-top: 3px;
-  height: 280px;
-}
 
-.quarto-title-banner {
-  margin-block-end: 1rem;
-  position: relative;
-  margin-top: -30px;
-  height: 150%;
-}
-</style>
-```
 ::: {#personal-section}
 This page is under construction
 
-### Current job
+### About me
 
-I am a Postdoc at iDiv, the German Center for Integrative Biodiversity Research (Halle-Jena-Leipzig) in the [sDiv Synthesis Center](https://www.idiv.de/en/sdiv.html).
+I am a currently an individual Postdoc at [sDiv](https://www.idiv.de/en/sdiv.html), the Synthesis center of the German Center for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig.
 
-I am generally interested in population biology, which I have studies from the context of Ecology, Genetic and Conservation.
+I am generally interested in population biology, which I have studied from the context of Ecology, Genetic and Conservation.
 
-My current project at sDiv makes use of publicly available microsatellite genotypes of vertebrates to investigate worldwide patterns in genetic diversity, across Latitudes and life-history strategies
+During my PhD research I was focusing on the genetic monitoring of Chimpanzee and Gorilla population. I collected and analyzed non-invasive genetic samples (i.e., poop samples) to estimate population size and growth of focal populations.
+
+After an extensive career break (due to a vortex of department closure, maternity, Covid-19 and second maternity), I stepped back into research with the ambition to reconnect to population processes at a larger scale. My current project at sDiv makes use of publicly available microsatellite genotypes of vertebrates to investigate worldwide patterns in genetic diversity, across Latitudes and life-history strategies.
+
 :::
 
 ### Building this website

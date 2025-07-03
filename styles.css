@@ -1,1 +1,16 @@
 /* css styles */
+
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: 3px;
+  height: 280px;
+  fontcolor: black
+}
+
+.quarto-title-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -10px;
+  height: 150%;
+}

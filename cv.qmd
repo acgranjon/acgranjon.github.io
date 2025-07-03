@@ -1,26 +1,10 @@
 ---
 title: "My CV"
-title-block-banner: "assets/images/landscape_cundinamarca.jpg"
+title-block-banner: "assets/images/Lake-Bunyoni-Uganda.jpg"
 toc: false
 ---
 
-```{=html}
-<style>
-#title-block-header {
-  margin-block-end: 1rem;
-  position: relative;
-  margin-top: 3px;
-  height: 280px;
-}
 
-.quarto-title-banner {
-  margin-block-end: 1rem;
-  position: relative;
-  margin-top: -30px;
-  height: 150%;
-}
-</style>
-```
 # **Research experience**
 
 ## **Feb. 2024-Feb. 2026**
