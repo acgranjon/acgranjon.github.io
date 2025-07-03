@@ -28,9 +28,7 @@ Wang, Xueye, Gaëlle Bocksberger, Mimi Arandjelovic, Anthony Agbor, Samuel Anged
 
 # 2023
 
-V. Suessle, M. Arandjelovic, A. K. Kalan, A. Agbor, C. Boesch, G. Brazzola, T. Deschner, P. Dieguez, **A.-C. Granjon**, H. Kuehl, A. Landsmann, J. Lapuente, N. Maldonado, A. Meier, Z. Rockaiova, E. G. Wessling, R. M. Wittig, C. T. Downs, A. Weinmann, E. Hergenroether, Automatic Individual Identification of Patterned Solitary Species Based on Unlabeled Video Data. arXiv arXiv:2304.09657 \[Preprint\] (2023). <https://doi.org/10.48550/arXiv.2304.09657>.
 
-C. Barratt, P. Gratton, S. Marta, R. Onstein, C. Fontsere, J. Lester, A. Kalan, L. Kulik, G. Bocksberger, P. Dieguez, M. McCarthy, M. Kuhlwilm, E. Abwe, A. Agbor, S. Angedakin, A. Assumang, F. Aubert, E. Ayimisin, E. Bailey, A. Barciela, D. Barubiyo, M. Bessone, G. Brazzola, V. E. Buh, R. Chancellor, H. Cohen, K. Corogenes, C. Coupland, E. Danquah, T. Deschner, A. Dunn, J. Dupain, V. Egbe, **A.-C. Granjon**, D. Hedwig, V. Hermans, R. A. Hernandez-Aguilar, I. Imong, K. Jeffery, S. Jones, J. Junker, M. Kambere, M. Kambi, I. Kienast, D. Kujirakwinja, K. Langergraber, J. Lapuente, B. Larson, K. Lee, M. Llana, R. Martin, T. Mbi, A. Meier, B. Morgan, D. Morgan, E. Neil, S. Nicholl, S. Nixon, P. Niyigaba, E. Normand, C. Orbell, L. Ormsby, R. Orume, L. Pacheco, A. Piel, J. Preece, M. Robbins, A. Rundus, C. Sanz, J. V. Schijndel, V. Sommer, F. Stewart, N. Tagg, L. R. Tédonzong, A. Tickle, E. Vendras, V. Vergnes, M. Vyalengerera, A. Welsh, E. Wessling, J. Willie, R. Wittig, Y. G. Yuh, K. Yurkiw, K. Zuberbühler, A. Andres, T. Marques-Bonet, C. Boesch, M. Arandjelovic, H. Kühl, Chimpanzee behavioural diversity is spatially structured and negatively associated with genetic variation. \[Preprint\] (2023). <https://doi.org/10.21203/rs.3.rs-3358458/v1>.
 
 # 2022
 
