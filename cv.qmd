@@ -60,10 +60,22 @@ toc: false
 
 # Teaching
 
-## 2024-2025:
+Spring 2025: Lecture and practical sessions, “Introduction to Macrogenetics”, Master module “Macroecology”, Leipzig University. Led by Dr. Marten Winter.
 
-Lectures and practical sessions, Bachelor and Master modules, Leipzig University and Johannes Gutenberg University Mainz.
+Spring 2024: Lectures and practical sessions, “Introduction to Genetic Marc-Recapture”, “Introduction to R", Bachelor Module “Conservation Genetics”, Johannes Gutenberg University Mainz. Led by Prof. Laura Hagemann.
 
-## 2018: 
+July 2023: Training of ca 15 field assistants and team leaders, BonDiv Project, Kinshasa, DRC. PIs: Prof. Hjalmar Kühl, Dr. Erin Wessling, Dr. Martin Surbeck.
 
-Teaching Assistant at University of Leipzig: ‘Genetik I für Informatiker’ led by Dr. Bert Klagges, and ‘Statistik’ led by Dr. Brigitte Schlögl.
+Fall 2018: Teaching Assistant. “Tutorial”, Bachelor module “Genetik I für Informatiker”. Leipzig University. Led by Dr. Bert Klagges.
+
+Spring 2018: Lectures and practical sessions. Bachelor- & Master module “Statistik”. Leipzig University. Led by Dr. Brigitte Schlögl.
+
+2015-2016: Training and supervision of ca. 100 field assistants from DRC, Rwanda and Uganda. Led by Dr. Jena Hickey & Anne-Céline Granjon
+
+
+# Outreach
+
+2021. Interview with YouTube Channel Science vs. Fiction.  Godzilla vs. Kong: Warum Größe nicht alles ist! (Science vs. Fiction feat. @CinemaStrikesBack). https://www.youtube.com/watch?v=1hwxQcYSEh4
+2.	Granjon, A.-C. 2022. “1063 Berggorillas - was bedeutet die Zahl?”. Invited Speaker, Mitgliederversammlung des Berggorilla und Regenwald Direkthilfe e.V. 2022, Hannover, Germany. 
+3.	Granjon, A.-C. 2020. “1063 Berggorillas - was bedeutet die Zahl?”. Invited contribution. Gorilla Journal 60, 1/2020. 
+5.	Granjon, A.-C. 2017. “Von Kacke zu Naturschutz”. Science Slam, Tag der Promovierende 2017, Research Academy Leipzig.
