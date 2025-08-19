@@ -4,7 +4,6 @@ title-block-banner: "/assets/images/Lake-Bunyoni-Uganda.jpg"
 toc: false
 ---
 
-
 # **Research experience**
 
 ## **Feb. 2024-Feb. 2026**
@@ -52,5 +51,19 @@ toc: false
 -   Société Francaise d'Écologie et d'Évolution (SFE2)
 -   Deutsche Zoologische Gesellschaft (DZG)
 
+# Skills
 
+-   Field work (total 26 months during PhD research and university education)
+-   Statistics (Linear Mixed Models, Capture-Mark-Recapture)
+-   Lab work (DNA extraction, DNA amplification, microsatellite genotyping)
+-   Languages: French (native), English (fluent), German (fluent)
 
+# Teaching
+
+## 2024-2025:
+
+Lectures and practical sessions, Bachelor and Master modules, Leipzig University and Johannes Gutenberg University Mainz.
+
+## 2018: 
+
+Teaching Assistant at University of Leipzig: ‘Genetik I für Informatiker’ led by Dr. Bert Klagges, and ‘Statistik’ led by Dr. Brigitte Schlögl.
