@@ -3,14 +3,23 @@
 #title-block-header {
   margin-block-end: 1rem;
   position: relative;
-  margin-top: 3px;
-  height: 280px;
+  margin-top: -3px;
+  height: 300px;
   fontcolor: black
 }
 
-.quarto-title-banner {
+/*.quarto-title-banner {
   margin-block-end: 1rem;
   position: relative;
   margin-top: -10px;
   height: 150%;
+}
+*/
+
+.quarto-title-block .quarto-title-banner {
+  background-size: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 40px;
+  background-origin: content-box;
 }
