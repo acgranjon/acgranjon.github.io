@@ -1,6 +1,6 @@
 ---
 title: "My CV"
-title-block-banner: "/assets/images/Lake-Bunyoni-Uganda.jpg"
+title-block-banner: "assets/images/Lake-Bunyoni-Uganda.jpg"
 toc: false
 ---
 
@@ -98,19 +98,19 @@ Three months volunteer team leader. Bird nest monitoring of great tits (Parus ma
 
 # Outreach
 
--   
+-
 
     2021. Interview with YouTube Channel Science vs. Fiction. Godzilla vs. Kong: Warum Größe nicht alles ist! (Science vs. Fiction feat. @CinemaStrikesBack). https://www.youtube.com/watch?v=1hwxQcYSEh4
 
--   
+-
 
     2022. Invited Speaker “1063 Berggorillas - was bedeutet die Zahl?”. Mitgliederversammlung des Berggorilla und Regenwald Direkthilfe e.V. 2022, Hannover, Germany.
 
--   
+-
 
     2023. Invited journal contribution. “1063 Berggorillas - was bedeutet die Zahl?”. Gorilla Journal 60, 1/2020.
 
--   
+-
 
     2024. Science Slam “Von Kacke zu Naturschutz”. Tag der Promovierende 2017, Research Academy Leipzig.
 
