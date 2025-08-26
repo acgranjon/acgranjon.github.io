@@ -1,5 +1,5 @@
 /* css styles */
-
+/* Banner */
 #title-block-header {
   margin-block-end: 1rem;
   position: relative;
@@ -22,4 +22,10 @@
   background-repeat: no-repeat;
   padding-top: 40px;
   background-origin: content-box;
+}
+
+/* Bold text */
+strong,
+b {
+  font-weight: bold !important;
 }
