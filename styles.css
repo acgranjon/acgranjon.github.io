@@ -1,11 +1,12 @@
 /* css styles */
-
+/* Banner */
 #title-block-header {
-  margin-block-end: 1rem;
+  /* moving the top of the next element (the text) */
+  margin-bottom: -200px;
   position: relative;
   margin-top: -3px;
-  height: 300px;
-  fontcolor: black
+  /* height of the banner image */
+  height: 400px;
 }
 
 /*.quarto-title-banner {
@@ -16,10 +17,17 @@
 }
 */
 
+/* title on top of the banner */
 .quarto-title-block .quarto-title-banner {
   background-size: relative;
   background-position: center;
   background-repeat: no-repeat;
   padding-top: 40px;
   background-origin: content-box;
+}
+
+/* Bold text */
+strong,
+b {
+  font-weight: bold !important;
 }
