@@ -1,0 +1,21 @@
+---
+title: "Genetic monitoring of African great apes"
+title-block-banner: "assets/images/Gorilla.jpg"
+toc: false
+---
+
+# **Summary**
+
+Monitoring population size and growth in species of conservation concern can be particularly challenging. In this work, we made use of recent
+advances in Capture-Mark-Recapture (CMR) methods to evaluate how well they can be applied with non-invasive sampling (DNA from fecal matter). We first evaluated the performance of methods by comparing the estimated population size with the known number of individuals in a well-studied group of eastern chimpanzees (Granjon et al. 2017). We then applied mark-recapture methods based on non-invasive genetic samples to estimate the abundance and growth of a population of Mountain gorillas (Granjon et al. 2020).
+
+# **Collaborators**
+Linda Vigilant, Martha Robbins, Kevin Langergraber, Jena Hickey, Winnie Eckardt, Rachel Sollmann, Joseph Arinatwe, Carolyn Rowney.
+
+# **Publications**
+
+**A.-C. Granjon**, C. Rowney, L. Vigilant, K. E. Langergraber, Evaluating genetic capture-recapture using a chimpanzee population of known size. *The Journal of Wildlife Management* **81**, 279–288 (2017).
+
+**A.‐C. Granjon**, M. M. Robbins, J. Arinaitwe, M. R. Cranfield, W. Eckardt, I. Mburanumwe, A. Musana, A. M. Robbins, J. Roy, R. Sollmann, L. Vigilant, J. R. Hickey, Estimating abundance and growth rates in a wild mountain gorilla population. *Animal Conservation* **23**, 455–465 (2020).
+
+K. J. Petrželková, P. Samaš, D. Romportl, C. Uwamahoro, B. Červená, B. Pafčo, T. Prokopová, R. Cameira, **A.-C. Granjon**, A. Shapiro, Ecological drivers of helminth infection patterns in the Virunga Massif mountain gorilla population. *International Journal for Parasitology: Parasites and Wildlife* **17**, 174–184 (2022).

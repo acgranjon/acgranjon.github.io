@@ -1,16 +1,15 @@
 ---
-title: "Publications"
-title-block-banner: "assets/images/Lake-Bunyoni-Uganda.jpg"
+title: "PanAfrican Programme: the Cultured Chimpanzee"
+title-block-banner: "assets/images/location_panaf_20190308.jpg"
 toc: false
 ---
 
-# First-authored publications
+# **Summary**
 
-**Granjon, Anne-Céline**, Michael Gerth, and Chloé Schmidt. 2025. Latitudinal Genetic Diversity Gradients Steepen toward the Poles. July 22. https://ecoevorxiv.org/repository/view/9701/.
+The Pan African Programme: the Cultured Chimpanzee aims at studying chimpanzee populations across the  species distribution range
+From 2013 to 2014, I was a PanAf field site manager and have since been involved in a number of publications. More information the PanAf Programme here <https://panafrican.eva.mpg.de/index.php>
 
-**A.‐C. Granjon**, M. M. Robbins, J. Arinaitwe, M. R. Cranfield, W. Eckardt, I. Mburanumwe, A. Musana, A. M. Robbins, J. Roy, R. Sollmann, L. Vigilant, J. R. Hickey, Estimating abundance and growth rates in a wild mountain gorilla population. *Animal Conservation* **23**, 455–465 (2020).
-
-**A.-C. Granjon**, C. Rowney, L. Vigilant, K. E. Langergraber, Evaluating genetic capture-recapture using a chimpanzee population of known size. *The Journal of Wildlife Management* **81**, 279–288 (2017).
+# **Publications**
 
 # 2025
 
@@ -30,7 +29,6 @@ Wang, Xueye, Gaëlle Bocksberger, Mimi Arandjelovic, Anthony Agbor, Samuel Anged
 
 # 2022
 
-K. J. Petrželková, P. Samaš, D. Romportl, C. Uwamahoro, B. Červená, B. Pafčo, T. Prokopová, R. Cameira, **A.-C. Granjon**, A. Shapiro, Ecological drivers of helminth infection patterns in the Virunga Massif mountain gorilla population. *International Journal for Parasitology: Parasites and Wildlife* **17**, 174–184 (2022).
 
 C. Fontsere, M. Kuhlwilm, C. Morcillo-Suarez, M. Alvarez-Estape, J. D. Lester, P. Gratton, J. M. Schmidt, P. Dieguez, T. Aebischer, P. Álvarez-Varona, A. Agbor, S. Angedakin, A. K. Assumang, E. A. Ayimisin, E. Bailey, D. Barubiyo, M. Bessone, A. Carretero-Alonso, R. Chancellor, H. Cohen, E. Danquah, T. Deschner, A. Dunn, J. Dupain, V. E. Egbe, O. Feliu, A. Goedmakers, **A.-C. Granjon**, J. Head, D. Hedwig, V. Hermans, R. A. Hernandez-Aguilar, I. Imong, S. Jones, J. Junker, P. Kadam, M. Kaiser, M. Kambere, M. V. Kambale, A. K. Kalan, I. Kienast, D. Kujirakwinja, K. Langergraber, J. Lapuente, B. Larson, A. Laudisoit, K. Lee, M. Llana, M. Llorente, S. Marrocoli, D. Morgan, F. Mulindahabi, M. Murai, E. Neil, S. Nicholl, S. Nixon, E. Normand, C. Orbell, L. J. Ormsby, L. Pacheco, A. Piel, L. Riera, M. M. Robbins, A. Rundus, C. Sanz, L. Sciaky, V. Sommer, F. A. Stewart, N. Tagg, L. R. Tédonzong, E. Ton, J. Van Schijndel, V. Vergnes, E. G. Wessling, J. Willie, R. M. Wittig, Y. G. Yuh, K. Yurkiw, K. Zuberbuehler, J. Hecht, L. Vigilant, C. Boesch, A. M. Andrés, D. A. Hughes, H. S. Kühl, E. Lizano, M. Arandjelovic, T. Marques-Bonet, Population dynamics and genetic connectivity in recent chimpanzee history. *Cell Genomics* **2**, 100133 (2022).
 
@@ -72,6 +70,3 @@ N. Tagg, M. McCarthy, P. Dieguez, G. Bocksberger, J. Willie, R. Mundry, F. Stewa
 
 C. Hoffmann, F. Zimmermann, R. Biek, H. Kuehl, K. Nowak, R. Mundry, A. Agbor, S. Angedakin, M. Arandjelovic, A. Blankenburg, G. Brazolla, K. Corogenes, E. Couacy-Hymann, T. Deschner, P. Dieguez, K. Dierks, A. Düx, S. Dupke, H. Eshuis, P. Formenty, Y. G. Yuh, A. Goedmakers, J. F. Gogarten, **A.-C. Granjon**, S. McGraw, R. Grunow, J. Hart, S. Jones, J. Junker, J. Kiang, K. Langergraber, J. Lapuente, K. Lee, S. A. Leendertz, F. Léguillon, V. Leinert, T. Löhrich, S. Marrocoli, K. Mätz-Rensing, A. Meier, K. Merkel, S. Metzger, M. Murai, S. Niedorf, H. De Nys, A. Sachse, J. van Schijndel, U. Thiesen, E. Ton, D. Wu, L. H. Wieler, C. Boesch, S. R. Klee, R. M. Wittig, S. Calvignac-Spencer, F. H. Leendertz, Persistent anthrax as a major driver of wildlife mortality in a tropical rainforest. *Nature* **548**, 82–86 (2017).
 
-# Report
-
-J. R. Hickey, **A.-C. Granjon**, L. Vigilant, W. Eckardt, K. V. Gilardi, M. Cranfield, A. Musana, A. B. Masozera, D. Babaasa, F. Ruzigandekwe, Virunga 2015–2016 surveys: monitoring mountain gorillas, other select mammals, and illegal activities. *Kigali: GVTC, IGCP & Partners* (2019).
