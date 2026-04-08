@@ -1,0 +1,16 @@
+---
+title: "Range Edge Dynamics sDiv Working Group"
+title-block-banner: "assets/images/sRed_2.jpg"
+toc: false
+---
+
+# **Summary**
+
+This work is part of the sDiv-funded working group led by Jean-Philippe Lessard and Catherine Graham.
+
+Species are not distributed everywhere, but have range limits. Populations are locally adapted to their environment and environments are variable across the range, thus creating an environmental gradient. 
+We will investigate the distribution of selection strength, phenotypic variation and heritability across species ranges in Vertebrates, vascular plants and insects.
+
+# **Collaborators**
+
+Colin Garroway, Chloé Schmidt, Michael Gerth, Emily Dovydaitis.

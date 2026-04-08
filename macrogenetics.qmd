@@ -1,0 +1,19 @@
+---
+title: "Macrogenetics"
+title-block-banner: "assets/images/macrogenetics.jpg"
+toc: false
+---
+
+# **Summary**
+
+Here we repurpose publicly available microsatellite data to investigate global patterns of genetic diversity within and across species. Specifically, we investigated intra- and interspecific gradients of genetic diversity across Latitude and climate (Granjon et al. 2025) and across life-history strategies.
+
+A Master student is looking at changes in genetic diversity over time in macaque species, and how these relate to their IUCN Red List Status.
+
+# **Collaborators**
+
+ Chloé Schmidt, Michael Gerth, Colin Garroway, Jean-Philippe Lessard, Scott Yanco, Anja Widdig, George Xydakis.
+
+# **Publications**
+
+**Granjon, Anne-Céline**, Michael Gerth, and Chloé Schmidt. 2025. Latitudinal Genetic Diversity Gradients Steepen toward the Poles. July 22. https://ecoevorxiv.org/repository/view/9701/.
