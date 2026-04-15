@@ -1,6 +1,6 @@
 ---
 title: "Macrogenetics"
-title-block-banner: "assets/images/macrogenetics.jpg"
+title-block-banner: "assets/images/macrogenetics.png"
 toc: false
 ---
 

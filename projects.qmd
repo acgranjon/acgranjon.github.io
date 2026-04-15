@@ -12,11 +12,8 @@ Here are the projects I am involved with:
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ### [Macrogenetics](macrogenetics.qmd)
 
-<<<<<<< HEAD
 [![](assets/images/macrogenetics.png)](macrogenetics.qmd)
-=======
-[![](assets/images/macrogenetics.jpg)](macrogenetics.qmd)
->>>>>>> 6c0e0edb9fbd996e3ed5e2aaf149fdd7e129eb35
+
 :::
 
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
