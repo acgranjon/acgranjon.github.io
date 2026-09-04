@@ -33,20 +33,16 @@ about:
     href: https://scholar.google.com/citations?user=5-DCUnwAAAAJ
 ---
 
-
 ::: {#personal-section}
 This page is under construction
 
 ### About me
 
-I am a currently an individual Postdoc at [sDiv](https://www.idiv.de/en/sdiv.html), the Synthesis center of the German Center for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig.
+I am an evolutionary ecologist using population and quantitative genetic data to investigate how ecological gradients shape genetic diversity and evolutionary potential across species. My work spans local to global scales and focuses on broad patterns in genetic variation, range-edge dynamics, and responses to environmental and human-driven change. I am interested in integrative, comparative approaches that link ecological context with evolutionary processes across diverse taxa.
 
-I am generally interested in population biology, which I have studied from the context of Ecology, Genetic and Conservation.
+During my PhD, I focused on the genetic monitoring of chimpanzee and gorilla populations, collecting and analyzing non-invasive genetic samples (i.e., faecal samples) to estimate population size and growth in focal populations. After an extensive career break (due to a combination of department closure, maternity leave, and the COVID-19 pandemic), I returned to research with the ambition to reconnect to population processes at a larger scale. In my first postdoctoral project at the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, I used publicly available microsatellite genotypes of vertebrate populations to investigate worldwide patterns of genetic diversity across latitudes and life-history strategies. I am also involved in the sRED Working group "Range Edge Dynamics", in which I investigate the distribution of selection strength, phenotypic variation and heritability across species ranges in Vertebrates, vascular plants and insects.
 
-During my PhD research I was focusing on the genetic monitoring of Chimpanzee and Gorilla population. I collected and analyzed non-invasive genetic samples (i.e., poop samples) to estimate population size and growth of focal populations.
-
-After an extensive career break (due to a vortex of department closure, maternity, Covid-19 and second maternity), I stepped back into research with the ambition to reconnect to population processes at a larger scale. My current project at sDiv makes use of publicly available microsatellite genotypes of vertebrates to investigate worldwide patterns in genetic diversity, across Latitudes and life-history strategies.
-
+My current research investigates genomic footprints of urbanization in blue and great tits, a Postdoc position funded by the Walter Benjamin Programme of the German Research Foundation (DFG), in collaboration with Prof. Marta Szulkin ([Anthropocene Biology Lab](http://abl.cnbch.uw.edu.pl/)) and Prof. Susanne Fritz ([Biodiversity in the Anthropocene Group](https://www.idiv.de/research/core-research-groups/biodiversity-in-the-anthropocene/)).
 :::
 
 ### Building this website
